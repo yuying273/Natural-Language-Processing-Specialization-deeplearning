@@ -24,10 +24,6 @@
 
 + **[Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)**
 
-
-
 **Instructors**: `Younes Bensouda Mourri`, `Łukasz Kaiser` and `Eddy Shyu`.
 
 These course materials belong entirely to `deeplearning.ai`. 
-
-<kbd><img src="" /></kbd>
